@@ -1,6 +1,8 @@
 # 마스크나우
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/85f26779-90c1-4ba9-b059-b1d1953f6226/icon.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210825%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210825T143653Z&X-Amz-Expires=86400&X-Amz-Signature=f8db3859fa5c7ddc06d46505980e63becebe841b69dbc3b3db2d8f1a90d580c1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22icon.png%22" width="70">
+
 ### 주요기능
-- 내 주변 판매 정보
+- 내 주변 공적마스크 판매 정보
 - 마스크 지도
 - 코로나19 소식
 
