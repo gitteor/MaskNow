@@ -1,5 +1,4 @@
 # 마스크나우
-<img src="https://ifh.cc/g/rnnSKy.png" width="70">
 
 ### 주요기능
 - 내 주변 공적마스크 판매 정보
